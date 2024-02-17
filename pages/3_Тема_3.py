@@ -8,7 +8,7 @@ st.page_link(label="Попередня тема:", page="pages/2_Тема_2.py")
 
 st.title("Przydatne rzeczy")
 
-img1 = Image.open("images/6.jpg")
+img1 = Image.open("/mount/src/lab2/pages/images/6.jpg")
 st.image(img1)
 st.markdown("<br><br>", unsafe_allow_html=True)
 

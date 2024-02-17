@@ -8,7 +8,7 @@ st.page_link(label="Попередня тема:", page="pages/3_Тема_3.py")
 
 st.title("SKĄD JESTEŚ?")
 
-img1 = Image.open("images/4.png")
+img1 = Image.open("/mount/src/lab2/pages/images/4.png")
 st.image(img1)
 
 st.markdown("<br><br>", unsafe_allow_html=True)
@@ -19,7 +19,7 @@ with words_holder:
 st.markdown("<br><br>", unsafe_allow_html=True)
 
 st.write("Спробуйте перекласти діалоги:")
-img2 = Image.open("images/5.png")
+img2 = Image.open("/mount/src/lab2/pages/images/5.png")
 st.image(img2)
 st.markdown("<br><br>", unsafe_allow_html=True)
 
