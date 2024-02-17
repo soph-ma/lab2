@@ -8,7 +8,7 @@ st.page_link(label="Попередня тема:", page="pages/1_Тема_1.py")
 
 st.title("ALFABET")
 
-img1 = Image.open("/Users/sonic/Documents/coding/labs/lab2/pages/images/3.png")
+img1 = Image.open("images/3.png")
 st.image(img1)
 st.markdown("<br><br>", unsafe_allow_html=True)
 

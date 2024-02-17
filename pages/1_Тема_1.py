@@ -9,7 +9,7 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 
 st.write("Спробуйте перекласти діалоги:")
 
-img1 = Image.open("/Users/sonic/Documents/coding/labs/lab2/pages/images/1.png")
+img1 = Image.open("images/1.png")
 st.image(img1)
 st.markdown("<br><br>", unsafe_allow_html=True)
 
@@ -28,7 +28,7 @@ st.table(pd.DataFrame(greetings))
 st.markdown("<br><br>", unsafe_allow_html=True)
 
 st.write("Спробуйте здогадатися значення фраз в діалогах:")
-img1 = Image.open("/Users/sonic/Documents/coding/labs/lab2/pages/images/2.png")
+img1 = Image.open("images/2.png")
 st.image(img1)
 st.markdown("<br><br>", unsafe_allow_html=True)
 

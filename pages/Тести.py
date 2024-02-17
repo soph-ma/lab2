@@ -5,7 +5,7 @@ from footer import footer
 st.title("Тестування за темами 1-4")
 
 # Load questions from JSON file
-with open("/Users/sonic/Documents/coding/labs/lab2/questions.json", "r") as f: 
+with open("../questions.json", "r") as f: 
     tasks = json.load(f)
 
 # Initialize session state if it doesn't exist
