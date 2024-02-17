@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Gdzie jest Angela? ___ jest tam", 
+        "options": ["Ono", "Ona", "On", "Oni"],
+        "correct": "Ona"
+    }, 
+    {
+        "question": "Як можна відповідсти на запитання Co słychać?", 
+        "options": ["Nic nowego.", "Nazywam się Tom Peterson.", "Aha, dziękuję.", "Na lewo."],
+        "correct": "Nic nowego."
+    }, 
+    {
+        "question": "ja ___", 
+        "options": ["jem", "je", "jesteś", "jestem"],
+        "correct": "jestem"
+    }, 
+    {
+        "question": "Skąd jesteś?", 
+        "options": ["Na lewo.", "Mam na imię Zosia.", "Z Anglii.", "Bardzo dobrze."], 
+        "correct": "Z Anglii."
+    }, 
+    {
+        "question": "Як НЕ можна привітатися польською?", 
+        "options": ["Siema", "Hej", "Cześć", "Pa"], 
+        "correct": "Pa"
+    }
+]
